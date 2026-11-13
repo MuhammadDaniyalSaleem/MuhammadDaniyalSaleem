@@ -4,7 +4,7 @@
 
 ### Software developer · Company owner · Building for everyday business
 
-[Email me](mailto:daniyalsaleem0024@gmail.com) &nbsp; / &nbsp; [Company LinkedIn](https://pk.linkedin.com/company/dny-global-solutions) &nbsp; / &nbsp; [Browse my code](https://github.com/MuhammadDaniyalSaleem?tab=repositories)
+[Email me](mailto:daniyalsaleem0024@gmail.com) &nbsp; / &nbsp; [Company LinkedIn](https://pk.linkedin.com/company/dny-global-solutions) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/dnyglobalsolutions/) &nbsp; / &nbsp; [Browse my code](https://github.com/MuhammadDaniyalSaleem?tab=repositories)
 
 </div>
 
@@ -65,6 +65,7 @@ My company works on custom software, websites, business automation, and digital 
 | Company links | |
 | --- | --- |
 | LinkedIn | [DNY GLOBAL SOLUTIONS](https://pk.linkedin.com/company/dny-global-solutions) |
+| Instagram | [@dnyglobalsolutions](https://www.instagram.com/dnyglobalsolutions/) |
 | Project enquiries | [daniyalsaleem0024@gmail.com](mailto:daniyalsaleem0024@gmail.com) |
 
 ## Get in touch
