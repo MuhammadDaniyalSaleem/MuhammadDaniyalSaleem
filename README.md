@@ -8,7 +8,7 @@
 
 **Helping small businesses, agencies, and startups turn ideas into practical digital solutions.**
 
-**DNY Global Solutions (SMC-Private) Limited**  
+**DNY GLOBAL SOLUTIONS (SMC-Private) Limited**  
 *Digital Network & Yield*
 
 [![Email](https://img.shields.io/badge/Email-Let%27s_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalsaleem0024@gmail.com)
@@ -22,7 +22,16 @@
 
 I work with **Python, AI, automation, web development, and digital marketing**, with a focus on building useful solutions for everyday business needs. My interests include automating repetitive tasks, developing business websites, creating AI chatbots, and presenting information through clear dashboards.
 
-Through **DNY Global Solutions**, I aim to help businesses in Pakistan and abroad improve their online presence and simplify their workflows.
+I run **DNY GLOBAL SOLUTIONS (SMC-Private) Limited**, my company focused on software development, AI automation, web solutions, and digital marketing. Through DNY GLOBAL SOLUTIONS, I help businesses in Pakistan and abroad improve their online presence and simplify their workflows.
+
+## 🏢 My Company — DNY GLOBAL SOLUTIONS
+
+**DNY GLOBAL SOLUTIONS (SMC-Private) Limited**  
+*Digital Network & Yield*
+
+We build practical digital solutions for small businesses, agencies, and startups: business websites, AI chatbots, workflow automation, dashboards, and digital marketing support.
+
+📩 **Business enquiries:** [daniyalsaleem0024@gmail.com](mailto:daniyalsaleem0024@gmail.com)
 
 - 🔭 **Current focus:** Business websites, automation tools, and AI-powered applications.
 - 🤝 **Open to collaboration:** Python automation, chatbots, web applications, dashboards, and business tools.
@@ -32,13 +41,40 @@ Through **DNY Global Solutions**, I aim to help businesses in Pakistan and abroa
 
 ## 🛠️ Tech Stack
 
+### Languages & Frontend
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend & APIs
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0E7490?style=for-the-badge&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Databases & Background Tasks
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+### AI & Document Automation
+
+![Gemini Integration](https://img.shields.io/badge/Gemini%20Integration-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OCR / Tesseract](https://img.shields.io/badge/OCR%20%2F%20Tesseract-2563EB?style=for-the-badge&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logoColor=white)
+![ReportLab](https://img.shields.io/badge/ReportLab-1E40AF?style=for-the-badge&logoColor=white)
+![PyPDF](https://img.shields.io/badge/PyPDF-B91C1C?style=for-the-badge&logoColor=white)
+
+### Version Control & Deployment
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WhiteNoise](https://img.shields.io/badge/WhiteNoise-475569?style=for-the-badge&logoColor=white)
 
 **Areas of focus:** AI integrations · Workflow automation · Web scraping · Dashboards · Digital marketing
 
@@ -78,7 +114,7 @@ Have a project, a workflow to automate, or an idea to build?
 
 <div align="center">
 
-**DNY Global Solutions · Digital Network & Yield**  
+**DNY GLOBAL SOLUTIONS · Digital Network & Yield**  
 *Building useful digital solutions, one project at a time.*
 
 </div>
